@@ -9,6 +9,6 @@ Este script em Python cria uma lista de tarefas. O usuário pode inserir as tare
 
 É uma aplicação console feita para estudo e treino. 
 
-## Tecnlogias usadas
+## Tecnologias usadas
 
 Python 3
